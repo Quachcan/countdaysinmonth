@@ -1,0 +1,14 @@
+/Applications/Document /Learning Unity/SwitchCase/bin/Debug/net8.0/SwitchCase
+/Applications/Document /Learning Unity/SwitchCase/bin/Debug/net8.0/SwitchCase.deps.json
+/Applications/Document /Learning Unity/SwitchCase/bin/Debug/net8.0/SwitchCase.runtimeconfig.json
+/Applications/Document /Learning Unity/SwitchCase/bin/Debug/net8.0/SwitchCase.dll
+/Applications/Document /Learning Unity/SwitchCase/bin/Debug/net8.0/SwitchCase.pdb
+/Applications/Document /Learning Unity/SwitchCase/obj/Debug/net8.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Document /Learning Unity/SwitchCase/obj/Debug/net8.0/SwitchCase.AssemblyInfoInputs.cache
+/Applications/Document /Learning Unity/SwitchCase/obj/Debug/net8.0/SwitchCase.AssemblyInfo.cs
+/Applications/Document /Learning Unity/SwitchCase/obj/Debug/net8.0/SwitchCase.csproj.CoreCompileInputs.cache
+/Applications/Document /Learning Unity/SwitchCase/obj/Debug/net8.0/SwitchCase.dll
+/Applications/Document /Learning Unity/SwitchCase/obj/Debug/net8.0/refint/SwitchCase.dll
+/Applications/Document /Learning Unity/SwitchCase/obj/Debug/net8.0/SwitchCase.pdb
+/Applications/Document /Learning Unity/SwitchCase/obj/Debug/net8.0/SwitchCase.genruntimeconfig.cache
+/Applications/Document /Learning Unity/SwitchCase/obj/Debug/net8.0/ref/SwitchCase.dll
